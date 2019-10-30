@@ -1,7 +1,7 @@
 Binary to decimal duplex converter
 
 DISCLAIMER!
-It does not provide 2's complement conversions!
+It returns the number with the minimal number of bits, does not extend to 16,32!
 
 
 Usage:
